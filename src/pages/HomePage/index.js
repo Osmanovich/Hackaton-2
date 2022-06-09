@@ -78,7 +78,7 @@ const HomePage = () => {
 
       <Heading>
         <div class="flex flex-row justify-between">
-          <div>#Heading</div>
+          <div>#Tilia Rentals</div>
           <UpstartButton onClick={() => logout(history)} type="danger">
             Logout
           </UpstartButton>

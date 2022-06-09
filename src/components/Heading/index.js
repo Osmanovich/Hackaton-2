@@ -6,7 +6,7 @@ const Heading = ({ children, ...rest } = {}) => {
       id="heading"
       class="h-16 md:w-full 
         text-2xl text-gray-300
-        bg-blue-900"
+        bg-purple-500"
       {...rest}>
       {children}
     </div>

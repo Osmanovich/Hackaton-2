@@ -55,7 +55,7 @@ const LoginPage = () => {
         :class flex flex-col justify-between
 
           Heading#
-            #Heading
+            Please Log In
           
           MainWrapper#mainwrapper
 
@@ -77,7 +77,7 @@ const LoginPage = () => {
               UpstartButton#button
               :type submit
 
-                Go!
+                Log in!
       `}
     </>
   );
